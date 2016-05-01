@@ -1,0 +1,105 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC12F1501-I/P
+D DIP8,1kW FLash,64Byte SRAM,No EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001615C.pdf
+$ENDCMP
+#
+$CMP PIC12F1822-I/P
+D DIP8,2kW FLash,128Byte SRAM,256Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001413E.pdf
+$ENDCMP
+#
+$CMP PIC12F1822T-I/SN
+D SO8,2kW FLash,128Byte SRAM,256Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001413E.pdf
+$ENDCMP
+#
+$CMP PIC12F509-I/P
+D DIP8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC12F510-I/P
+D DIP8,1kW FLash,64Byte SRAM,No EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41268D.pdf
+$ENDCMP
+#
+$CMP PIC12F609-I/P
+D DIP8,1kW FLash,64Byte SRAM,No EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41302A.pdf
+$ENDCMP
+#
+$CMP PIC12F615-I/P
+D DIP8,1kW FLash,64Byte SRAM,No EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41302D.pdf
+$ENDCMP
+#
+$CMP PIC12F629-I/P
+D DIP8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC12F629T-I/SN
+D SO8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC12F635-E/P
+D DIP8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41232D.pdf
+$ENDCMP
+#
+$CMP PIC12F635-I/P
+D DIP8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41232D.pdf
+$ENDCMP
+#
+$CMP PIC12F635T-I/SN
+D SO8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41232D.pdf
+$ENDCMP
+#
+$CMP PIC12F675-E/P
+D DIP8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC12F675-I/P
+D DIP8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC12F675T-I/SN
+D SO8,1kW FLash,64Byte SRAM,128Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC12F683-I/P
+D DIP8,2kW FLash,128Byte SRAM,256Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41211D_.pdf
+$ENDCMP
+#
+$CMP PIC12F683T-I/SN
+D DIP8,2kW FLash,128Byte SRAM,256Byte EEPROM
+K 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41211D_.pdf
+$ENDCMP
+#
+#End Doc Library
